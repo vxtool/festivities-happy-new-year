@@ -36,3 +36,9 @@
   // Output standard non-prefixed declaration
   #{$property}: $value;
 }
+
+// Clearfix
+@mixin x-clearfix() {
+  &:before, &:after { content: " "; display: table; }
+  &:after { clear: both; }
+}

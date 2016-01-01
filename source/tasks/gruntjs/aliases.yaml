@@ -1,4 +1,5 @@
 default:
   - 'clean'
   - 'sass'
+  - 'imagemin'
 #  - 'uglify'
