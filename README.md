@@ -1,19 +1,30 @@
-# Happy New Year 2016
+# Happy New Year
 
-[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hemersonvianna/happy-new-year-2016/blob/master/LICENSE.md)
-[![issues](https://img.shields.io/github/issues/hemersonvianna/happy-new-year-2016.svg)](https://github.com/hemersonvianna/happy-new-year-2016/issues)
-[![devDependency Status](https://david-dm.org/hemersonvianna/happy-new-year-2016/dev-status.svg)](https://david-dm.org/hemersonvianna/happy-new-year-2016#info=devDependencies)
+[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
+[![issues](https://img.shields.io/github/issues/hemersonvianna/happy-new-year.svg?style=flat-square)](https://github.com/hemersonvianna/happy-new-year/issues)
 
-## Instalação
+## Summary
+
+- [2015-2016](2015-2016/)
+
+## Install
 
 ```
 npm install
 ```
 
+## Contributing
+
+- Fork it!
+- Create your feature branch: `git checkout -b my-new-feature`
+- Commit your changes: `git commit -m 'Add some feature'`
+- Push to the branch: `git push origin my-new-feature`
+- Submit a pull request
+
 ## Log
 
-Veja o [Changelog](CHANGELOG.md) para mais detalhes.
+Check [Releases](https://github.com/hemersonvianna/happy-new-year/releases) for detailed changelog.
 
-## Licença
+## License
 
-[MIT license](LICENSE.md) © Copyright 2015 [Hemerson Vianna](http://hemersonvianna.io).
+[MIT license](http://hemersonvianna.mit-license.org/) © Hemerson Vianna
